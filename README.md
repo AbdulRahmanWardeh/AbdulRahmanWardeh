@@ -1,137 +1,105 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AbdulRahman%20Wardeh&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-</div>
 
-# 👋 Hey there, I'm AbdulRahman Wardeh (@AbdulRahmanWardeh)
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4A3AFF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=UI%2FUX+Designer+🎨;Frontend+Developer+💻;Designing+Clean+and+Scalable+Interfaces+✨;Founder+of+CODENZE+🚀)](https://git.io/typing-svg)
-
-### 🎨 UI / UX Designer | Frontend Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A3AFF,50:8A2BE2,100:00D4FF&height=240&section=header&text=AbdulRahman%20Wardeh&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mid-Level%20UX%20Designer%20%7C%20Vibe%20Coder%20%7C%20Frontend%20Developer&descAlignY=58&descSize=18"/>
 
 </div>
 
 <div align="center">
-  
 
-
-</div>
-
-I’m a **UI/UX-focused Software Engineer** passionate about building  
-**modern, minimal, and user-centered interfaces** that balance **aesthetics, usability, and scalability**.
-
-My main focus is translating **design systems** into **clean frontend code** while ensuring smooth **developer handoff**.
-
----
-
-## 💡 About Me
-
-* 🎨 **Junior UI/UX Designer** 
-* 💻 **Frontend Developer** 
-* 🚀 **Co-Founder of CODENZE** – *Turn your idea into digital masterpiece*
-* 🌍 Based in **Jordan**
-* 🧠 Strong interest in **Design Systems, Auto Layout, Visual Hierarchy & UX Thinking**
-
----
-
-## 🏢 Professional Involvement
-
-* **Co-Founder @ CODENZE**  
-  *UI/UX & Frontend solutions for web platforms*
-* **UI/UX Contributor** in academic & real-world projects
-* **Mentor & Knowledge Sharer** – UI/UX, Figma & Frontend fundamentals
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 UI / UX
-<div align="center">
-
-![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
-![Design Systems](https://img.shields.io/badge/Design%20Systems-4A3AFF?style=for-the-badge)
-![Auto Layout](https://img.shields.io/badge/Auto%20Layout-FF7262?style=for-the-badge)
-![UX Research](https://img.shields.io/badge/UX%20Research-8E44AD?style=for-the-badge)
-![Wireframing](https://img.shields.io/badge/Wireframing-34495E?style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=4A3AFF&center=true&vCenter=true&width=900&height=70&lines=Designing+clean+and+scalable+interfaces+✨;Building+beautiful+digital+products+🚀;Bridging+UX%2C+Frontend%2C+and+AI+workflows+💻;Turning+ideas+into+real+experiences+🎨)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧩 Design → Development Workflow
-
-* **UX Research & Wireframing**
-* **UI Design & Design Systems (Figma)**
-* **Auto Layout & Responsive Design**
-* **Design → Frontend Translation**
-* **Pixel-perfect implementation**
-* **Developer-friendly handoff**
-
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulRahmanWardeh&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRahmanWardeh&layout=compact&theme=tokyonight&hide_border=true" />
+### 👋 Hey, I’m AbdulRahman Wardeh  
+#### **Mid-Level UX Designer • Vibe Coder • Frontend Developer**
 
 </div>
 
+<p align="center">
+I design and build modern digital experiences that are clean, scalable, user-centered, and ready for development.
+</p>
+
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbdulRahmanWardeh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://img.shields.io/badge/UX%20Designer-4A3AFF?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vibe%20Coder-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend%20Developer-00D4FF?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Co--Founder-CODENZE-8A2BE2?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🧠 About Me
 
-## 📫 Connect With Me
+I’m a **Mid-Level UX Designer** and **Vibe Coder** based in **Jordan**, passionate about creating products that feel simple, polished, and meaningful.
 
-<div align="center">
+I work at the intersection of **UX design, UI systems, frontend development, and AI-powered workflows**.  
+My focus is turning messy ideas into clear user flows, beautiful interfaces, scalable components, and smooth developer handoff.
 
-<a href="https://www.linkedin.com/in/abdulrahman-wardeh-802822347/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-AbdulRahman%20Wardeh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AbdulRahmanWardeh" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-AbdulRahmanWardeh-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.behance.net/abdulrawardeh" target="_blank">
-  <img src="https://img.shields.io/badge/Behance-AbdulRahman%20Wardeh-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
-</a>
-
-<a href="https://awardeh.me" target="_blank">
-  <img src="https://img.shields.io/badge/Website-awardeh.me-4A3AFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:info@awardeh.me">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/962788524504" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</div>
-
+> I don’t just design screens — I design experiences that are easy to understand, easy to use, and easy to build.
 
 ---
 
+## ⚡ What Makes Me Different
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 UX / UI Thinking
+I care about clarity, hierarchy, usability, accessibility, and how users actually move through a product.
+
+</td>
+<td width="50%">
+
+### 💻 Frontend Mindset
+I design with development in mind, making interfaces easier to build, scale, and maintain.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧩 Design Systems
+I build reusable components, consistent layouts, tokens, states, and responsive structures.
+
+</td>
+<td width="50%">
+
+### 🚀 Vibe Coding
+I use AI-assisted workflows to prototype faster, explore ideas, and build polished frontend experiences.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ My Core Skills
+
 <div align="center">
 
-**“Good design is obvious.  
-Great design is transparent.”**
-
-🚀 **Open for UI/UX **
+| UX Design | UI Design | Frontend | AI Workflow |
+|----------|-----------|----------|-------------|
+| User Flows | Visual Design | HTML / CSS | Prompt Engineering |
+| Wireframes | Design Systems | JavaScript | Claude / ChatGPT |
+| UX Research | Components | React | Vibe Coding |
+| Usability Testing | Prototyping | Tailwind CSS | Fast Prototyping |
+| Information Architecture | Auto Layout | Responsive UI | Design Automation |
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
+---
 
+## 🎯 My Design Process
+
+<div align="center">
+
+```txt
+Discover → Define → Wireframe → Design → Prototype → Test → Handoff → Polish
