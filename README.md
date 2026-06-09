@@ -13,12 +13,6 @@
 
 ---
 
-<div align="center">
-
-### 👋 Hey, I’m AbdulRahman Wardeh  
-#### **Mid-Level UX Designer • Vibe Coder • Frontend Developer**
-
-</div>
 
 <p align="center">
 I design and build modern digital experiences that are clean, scalable, user-centered, and ready for development.
