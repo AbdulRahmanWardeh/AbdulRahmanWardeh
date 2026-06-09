@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:8A2BE2,100:C084FC&height=240&section=header&text=AbdulRahman%20Wardeh&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mid-Level%20UX%20Designer%20%7C%20Vibe%20Coder%20%7C%20Frontend%20Developer&descAlignY=58&descSize=18"/>
@@ -26,28 +27,20 @@ I design and build modern digital experiences that are clean, scalable, user-cen
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aawardeh/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.behance.net/abdulrawardeh" target="_blank">
-  <img src="https://img.shields.io/badge/Behance-6D28D9?style=for-the-badge&logo=behance&logoColor=white"/>
+  <img src="https://img.icons8.com/color/48/behance.png" width="48" height="48" alt="Behance"/>
 </a>
+&nbsp;&nbsp;
 <a href="mailto:info@awardeh.me">
-  <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://wa.me/962788524504" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-A855F7?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="48" height="48" alt="WhatsApp"/>
 </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/UX%20Designer-8A2BE2?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vibe%20Coder-4C1D95?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Frontend%20Developer-A855F7?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Co--Founder-CODENZE-6D28D9?style=for-the-badge"/>
 
 </div>
 
@@ -107,3 +100,4 @@ I use AI-assisted workflows to prototype faster, explore ideas, and build polish
 </td>
 </tr>
 </table>
+```
