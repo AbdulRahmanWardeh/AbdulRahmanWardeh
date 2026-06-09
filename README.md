@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A3AFF,50:8A2BE2,100:00D4FF&height=240&section=header&text=AbdulRahman%20Wardeh&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mid-Level%20UX%20Designer%20%7C%20Vibe%20Coder%20%7C%20Frontend%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:8A2BE2,100:C084FC&height=240&section=header&text=AbdulRahman%20Wardeh&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mid-Level%20UX%20Designer%20%7C%20Vibe%20Coder%20%7C%20Frontend%20Developer&descAlignY=58&descSize=18"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=4A3AFF&center=true&vCenter=true&width=900&height=70&lines=Designing+clean+and+scalable+interfaces+✨;Building+beautiful+digital+products+🚀;Bridging+UX%2C+Frontend%2C+and+AI+workflows+💻;Turning+ideas+into+real+experiences+🎨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=8A2BE2&center=true&vCenter=true&width=900&height=70&lines=Designing+clean+and+scalable+interfaces+✨;Building+beautiful+digital+products+🚀;Bridging+UX%2C+Frontend%2C+and+AI+workflows+💻;Turning+ideas+into+real+experiences+🎨)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,10 +25,39 @@ I design and build modern digital experiences that are clean, scalable, user-cen
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/UX%20Designer-4A3AFF?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vibe%20Coder-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Frontend%20Developer-00D4FF?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Co--Founder-CODENZE-8A2BE2?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/aawardeh/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.behance.net/abdulrawardeh" target="_blank">
+  <img src="https://img.shields.io/badge/Behance-6D28D9?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+<a href="mailto:info@awardeh.me">
+  <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://wa.me/962788524504" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-A855F7?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/UX%20Designer-8A2BE2?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vibe%20Coder-4C1D95?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend%20Developer-A855F7?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Co--Founder-CODENZE-6D28D9?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 My GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRahmanWardeh&bg_color=0D1117&color=ffffff&line=8A2BE2&point=C084FC&area=true&area_color=8A2BE2&hide_border=true" width="100%"/>
 
 </div>
 
@@ -78,28 +107,3 @@ I use AI-assisted workflows to prototype faster, explore ideas, and build polish
 </td>
 </tr>
 </table>
-
----
-
-## 🛠️ My Core Skills
-
-<div align="center">
-
-| UX Design | UI Design | Frontend | AI Workflow |
-|----------|-----------|----------|-------------|
-| User Flows | Visual Design | HTML / CSS | Prompt Engineering |
-| Wireframes | Design Systems | JavaScript | Claude / ChatGPT |
-| UX Research | Components | React | Vibe Coding |
-| Usability Testing | Prototyping | Tailwind CSS | Fast Prototyping |
-| Information Architecture | Auto Layout | Responsive UI | Design Automation |
-
-</div>
-
----
-
-## 🎯 My Design Process
-
-<div align="center">
-
-```txt
-Discover → Define → Wireframe → Design → Prototype → Test → Handoff → Polish
