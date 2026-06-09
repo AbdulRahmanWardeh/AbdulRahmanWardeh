@@ -13,11 +13,6 @@
 
 ---
 
-
-<p align="center">
-I design and build modern digital experiences that are clean, scalable, user-centered, and ready for development.
-</p>
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aawardeh/" target="_blank">
