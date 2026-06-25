@@ -1,4 +1,8 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:8A2BE2,100:C084FC&height=240&section=header&text=AbdulRahman%20Wardeh&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mid-Level%20UX%20Designer%20%7C%20Vibe%20Coder%20%7C%20Frontend%20Developer&descAlignY=58&descSize=18"/>
+
+</div>
 
 <div align="center">
 
@@ -11,19 +15,19 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aawardeh/" target="_blank">
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="46" height="46" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/fluency/96/linkedin.png" width="48" height="48" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.behance.net/abdulrawardeh" target="_blank">
-  <img src="https://img.icons8.com/color/48/behance.png" width="46" height="46" alt="Behance"/>
+  <img src="https://img.icons8.com/fluency/96/behance.png" width="48" height="48" alt="Behance"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:info@awardeh.me">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="46" height="46" alt="Email"/>
+  <img src="https://img.icons8.com/fluency/96/gmail.png" width="48" height="48" alt="Email"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/962788524504" target="_blank">
-  <img src="https://img.icons8.com/color/48/whatsapp.png" width="46" height="46" alt="WhatsApp"/>
+  <img src="https://img.icons8.com/fluency/96/whatsapp.png" width="48" height="48" alt="WhatsApp"/>
 </a>
 
 </div>
