@@ -1,12 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:8A2BE2,100:C084FC&height=240&section=header&text=AbdulRahman%20Wardeh&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mid-Level%20UX%20Designer%20%7C%20Vibe%20Coder%20%7C%20Frontend%20Developer&descAlignY=58&descSize=18"/>
-
-<a href="https://github.com/AbdulRahmanWardeh">
-  <img src="https://komarev.com/ghpvc/?username=AbdulRahmanWardeh&label=Profile+Views&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
-</a>
-
-</div>
 
 <div align="center">
 
