@@ -19,16 +19,19 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aawardeh/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="46" height="46" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.behance.net/abdulrawardeh" target="_blank">
-  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+  <img src="https://img.icons8.com/color/48/behance.png" width="46" height="46" alt="Behance"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:info@awardeh.me">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="46" height="46" alt="Email"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/962788524504" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <img src="https://img.icons8.com/color/48/whatsapp.png" width="46" height="46" alt="WhatsApp"/>
 </a>
 
 </div>
